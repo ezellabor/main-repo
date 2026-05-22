@@ -16,7 +16,7 @@
 
 ---
 
-## RA1 – Selección de componentes (30 puntos)
+## RA1 – Selección de componentes (30%)
 
 ### Pregunta 1.1 (6 puntos)
 
@@ -62,7 +62,7 @@ En el taller dispones de tres placas base diferentes (marcas y modelos distintos
 
 ---
 
-## RA2 – Ensamblaje de equipos (15 puntos)
+## RA2 – Ensamblaje de equipos (15%)
 
 ### Pregunta 2.1 (7 puntos) – PRÁCTICA
 
@@ -94,7 +94,7 @@ Enumera **cinco errores comunes** de montaje y explica cómo prevenir cada uno.
 
 ---
 
-## RA3 – Medición de parámetros eléctricos (10 puntos)
+## RA3 – Medición de parámetros eléctricos (10%)
 
 ### Pregunta 3.1 (3 puntos)
 
@@ -123,7 +123,7 @@ Con un **multímetro digital**, realiza las siguientes mediciones en un equipo e
 
 ---
 
-## RA4 – Mantenimiento de equipos (10 puntos)
+## RA4 – Mantenimiento de equipos (10%)
 
 ### Pregunta 4.1 (4 puntos)
 
@@ -145,7 +145,7 @@ El profesor te asigna un equipo con un **disco duro HDD ruidoso**. Realiza:
 
 ---
 
-## RA5 – Instalación de software (10 puntos)
+## RA5 – Instalación de software (10%)
 
 ### Pregunta 5.1 (4 puntos)
 
@@ -168,7 +168,7 @@ Desde una imagen `.iso` proporcionada por el profesor, crea un USB booteable e i
 
 ---
 
-## RA6 – Nuevas tendencias en ensamblaje (5 puntos)
+## RA6 – Nuevas tendencias en ensamblaje (5%)
 
 ### Pregunta 6.1 (3 puntos)
 
@@ -188,7 +188,7 @@ Explica brevemente **tres tendencias actuales** en hardware. Para cada una, indi
 
 ---
 
-## RA7 – Mantenimiento de periféricos (10 puntos)
+## RA7 – Mantenimiento de periféricos (10%)
 
 ### Pregunta 7.1 (4 puntos)
 
@@ -208,7 +208,7 @@ Se te entrega una **impresora láser** que imprime con rayas verticales negras. 
 
 ---
 
-## RA8 – Prevención de riesgos laborales y ambiental (10 puntos)
+## RA8 – Prevención de riesgos laborales y ambiental (10%)
 
 ### Pregunta 8.1 (3 puntos)
 
@@ -253,7 +253,7 @@ Define los siguientes símbolos de seguridad que deben aparecer en el taller. **
 4. Residuo electrónico (contenedor tachado)
 
 ---
-
+<!--
 # SOLUCIONARIO - MME
 
 ## RA1 – Selección de componentes (30 puntos)
@@ -665,7 +665,7 @@ El alumno debe demostrar al profesor:
 **Criterio:** 0,5 puntos por símbolo (0,25 identificación + 0,25 significado).
 
 ---
-
+-->
 ## Resumen de puntuación por RA
 
 | RA | Descripción | Puntos |
