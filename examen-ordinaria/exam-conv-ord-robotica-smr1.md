@@ -1,4 +1,4 @@
-![Convocatoria(https://img.shields.io/badge/Convocatoria-Ordinaria-blue?style=for-the-badge)
+![Convocatoria](https://img.shields.io/badge/Convocatoria-Ordinaria-blue?style=for-the-badge)
 ![Módulo](https://img.shields.io/badge/Módulo-Informática_aplicada_a_sistemas_electrónicos
 -brown?style=for-the-badge)
 ![Grupo](https://img.shields.io/badge/Grupo-ASIR1-brown?style=for-the-badge)
