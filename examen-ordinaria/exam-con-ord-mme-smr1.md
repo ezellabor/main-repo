@@ -682,4 +682,3 @@ El alumno debe demostrar al profesor:
 
 ---
 
-**FIN DEL EXAMEN Y SOLUCIONARIO DE MME**
